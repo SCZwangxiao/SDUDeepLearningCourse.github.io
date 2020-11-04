@@ -20,7 +20,10 @@ To be added...
         - Final report (Week 16)
 - Final Exam (40%)
 
+***
+
 ## Lecture Notes
+
 | Week        | Topic          |
 |:-------------|:------------------|
 | 1           | [Introduction](./slides/0-introduction.pdf)<br>[Coding environment](./slides/1-编程环境概念简介.pdf)<br/>  |
@@ -32,6 +35,7 @@ To be added...
 
 ## Presentations
 Presentations are scheduled as follows:   
+
 | Week        | Number          | Topic          | Speakers         |  Paper          | slides          |
 |:-------------|:------------------|:------------------|:------------------|:------------------|:------------------|
 | 4           | 1 | CNN-1 | 乔亚非<br>韦彩霞 | K. Simonyan and A. Zisserman. Very deep convolutional networks for large-scale image recognition. In ICLR, 2015. | [VGG](./presentation/乔亚非_韦彩霞_VGGNet.pdf) |  

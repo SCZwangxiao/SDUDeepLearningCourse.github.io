@@ -37,7 +37,7 @@ To be added...
 Presentations are scheduled as follows:   
 
 | Week        | Number          | Topic          | Speakers         |  Paper          | slides          |
-|:-------------|:------------------|:------------------|:------------------|:------------------|:------------------|
+|:----|:----|:--------|:--------|:----------------------------------------------|:---------|
 | 4           | 1 | CNN-1 | 乔亚非<br>韦彩霞 | K. Simonyan and A. Zisserman. Very deep convolutional networks for large-scale image recognition. In ICLR, 2015. | [VGG](./presentation/乔亚非_韦彩霞_VGGNet.pdf) |  
 | 5           | 2 | CNN-2 | 马子阳<br>邹宗瑞 | He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]. Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778. | [ResNet](./presentation/马子阳_邹宗瑞_resNet_v3.pdf) |  
 | 5           | 3 | CNN-3 | 郭书宇<br>王昊晨 | Huang, Gao, et al. "Densely connected convolutional networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017 | [DenseNet](./presentation/郭书宇_王昊晨_DenseNet.pdf) |  
